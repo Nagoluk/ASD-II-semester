@@ -1,3 +1,6 @@
+//Naholiuk Dmitriy 23.03.2020 13:54
+
+
 let a = [1,5,7,2,4,2,6,6,7,8,9,6,7];
 let results = "";
 
