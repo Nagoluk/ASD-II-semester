@@ -7,7 +7,6 @@
 let isFibonachi = num => {
     const temp = 5 * (num**2);
 
-
     if(Math.sqrt(temp - 4)%1 === 0 || Math.sqrt(temp + 4)%1 === 0 ){
        return true
     }
