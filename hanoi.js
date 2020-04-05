@@ -1,3 +1,5 @@
+//Naholiuk Dmitriy 5.04.2020 19:51
+
 let generateHanoiMovesIterative = function(numberOfDisks) {
   // direction of rotation of the smallest disk
   let dir = (numberOfDisks % 2 === 0) ? 1 : -1;

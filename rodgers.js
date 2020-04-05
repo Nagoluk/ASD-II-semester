@@ -1,3 +1,5 @@
+//Naholiuk Dmitriy 5.04.2020 19:51
+
 Array.prototype.avarage = function (){
     return this.reduce((a, b) => a + b) / this.length;
 }
